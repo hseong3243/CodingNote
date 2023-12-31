@@ -1,3 +1,7 @@
+## 핵심 포인트
+
+- 이분 탐색
+
 ## 문제 설명
 
 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/64062
