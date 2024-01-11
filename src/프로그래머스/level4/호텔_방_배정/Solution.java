@@ -1,4 +1,4 @@
-package 프로그래머스.호텔_방_배정;
+package 프로그래머스.level4.호텔_방_배정;
 
 import java.util.HashMap;
 import java.util.Map;
